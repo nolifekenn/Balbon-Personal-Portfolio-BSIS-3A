@@ -20,13 +20,13 @@ Personal Portofilio for Kenneth Balbon. This portfolio includes brief descriptio
 4. The site should automatically open in your default browser.
 
 # iii. HTML Elements and Tags utilized
-<meta> - to specify character set and viewport settings
-<title> - to give the tab a proper title
-Semantic Elements (<main>, <section>, <article>, <footer>, <nav>, <table>, <form>, <aside>) - to clearly define the part of the content in the page. 
+meta - to specify character set and viewport settings
+title - to give the tab a proper title
+Semantic Elements (main, section, article, footer, nav, table, form, aside) - to clearly define the part of the content in the page. 
 h1-h3 - shows the level of headings
-<img> - to put an image in the site 
-<ul> - unordered list content 
-<hr> - horizontal line that breaks the page
-<br> - line break for long sentences/paragraphs. 
-<p> - to specify that a content is a paragraph
-<a> - link element that makes a text/image a hyperlink
+img - to put an image in the site 
+ul - unordered list content 
+hr - horizontal line that breaks the page
+br - line break for long sentences/paragraphs. 
+p - to specify that a content is a paragraph
+a - link element that makes a text/image a hyperlink
